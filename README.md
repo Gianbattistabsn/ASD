@@ -1,6 +1,7 @@
 # ASD
 Algoritmi e Strutture dati
-I LABORATORI COMPLETI SONO QUELLI NEL BRANCH "STEFANO" e "GIAN"
+
+| I LABORATORI COMPLETI SONO QUELLI NEL BRANCH "STEFANO" e "GIAN" |
 
 Repository creato per lo sviluppo dei programmi richiesti nei laboratori di Algoritmi e Strutture dati e per confrontarsi a vicenda.
 
